@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+spacy
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+openpyxl

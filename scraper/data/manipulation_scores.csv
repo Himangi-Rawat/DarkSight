@@ -1,0 +1,5 @@
+﻿platform,total_products,fake_urgency_count,extreme_disc_count,inflated_disc_count,misleading_price_count,bait_discount_count,drip_pricing_count,total_dark_patterns,dark_pattern_rate,manipulation_index
+Amazon,395,70,35,333,341,11,0,345,87.3,36.3
+Flipkart,403,169,168,0,15,10,0,284,70.5,19.6
+Myntra,264,42,92,0,0,0,0,128,48.5,10.9
+Ajio,472,0,201,0,28,4,0,233,49.4,9.5
