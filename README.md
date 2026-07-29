@@ -343,21 +343,6 @@ The implementation is intended for educational and research purposes and is not 
 
 ---
 
-# 📷 Screenshots
-
-> *(Add screenshots of your dashboard here.)*
-
-Example:
-
-```
-images/dashboard_home.png
-images/platform_analysis.png
-images/heatmap.png
-images/product_explorer.png
-```
-
----
-
 # 📄 License
 
 This project is licensed under the MIT License.
